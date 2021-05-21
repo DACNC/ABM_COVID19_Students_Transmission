@@ -20,7 +20,7 @@ Perspective view of the ABM, when students are located at home at the beginning 
 
 
 ## Installation
-To install GAMA platform, follow steps from following GAMA website:
+To install GAMA platform, follow steps from GAMA website:
 - https://gama-platform.github.io/wiki/InstallationAndLaunching
 
 
