@@ -1,5 +1,8 @@
 # ABM_COVID19_Students_Transmission
 
+* David Alvarez Castro * (contact d.alvarez2@newcastle.ac.uk)
+* Alistair Ford * 
+
 This is the GitHub repository containing the GAMA code developed and open data to simulate geospatial case-scenarios of the transmission of COVID-19 between students living at student accommodation.
 
 This project was developed as part of the Thesis in Master of Research in Geospatial Data Science, at Newcastle University (academic year 2019-2020).
@@ -45,7 +48,16 @@ GIS data has to be located in folder "includes".
 **For more information about the attribute tables of each described GIS dataset , please refer to Appendix B in the paper.**
 
 
-Once simulations are finished results will be allocated in folder "results"
+## Output data
+The following files are generated once simulation is finished:
+- ABM_SEIR_values_per_day.csv: this file contains the evolution in time of the disease. It shows the number of Susceptible, Exposed, Infective and Recovered students per day. When plotting this data in a chart, it is possible to identify the duration of the disease in the environment, when Exposed and Infective peak values were reached and the speed in the evolution based on the slopes of the curves.
+- Agents_after_simulations.csv: this file contains individual information of eve-ry student in the model, recording their status related to the disease (S-E-I-R), and time and location (x, y, z coordinates in EPSG 27700) of infection and by whom in the case of infection. This information allows spatial analysis of in-fection, identifying the places where most infections occurred 
+- Transmission_list.csv: this file contains information about how the disease was transmitted between agents recording the ID value and the ID value of the agent that infected them for each Student, Dynamic and Static agent. This in-formation allows tracking the transmission of the disease between agents
+- Initial_data_and_parameters.txt: this file contains the initial input data and parameter values set up by the user before running the simulation. This file is useful to keep track of the parameters used in each simulation. 
+
+The attribute table of each described output file can be consulted in the Appendix C of the paper.
+
+These files are generated in folder "results".
 
 
 ## Assumptions and limitations
