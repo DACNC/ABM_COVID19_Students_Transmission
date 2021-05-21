@@ -4,7 +4,7 @@ This is the GitHub repository containing the GAMA code developed and open data t
 
 This project was developed as part of the Thesis in Master of Research in Geospatial Data Science, at Newcastle University (academic year 2019-2020).
 
-## Requirements:
+## Requirements
 - This code was developed using GAMA Platform, version 1.8 (released on the 31st of July, 2019) (https://gama-platform.github.io/download).
 - It is required to install Java 8x64.
 - Environmental variables should be updated as follow: PATH variable should contain an option pointing to folder: ../Java/jre1.8.0_171/bin
@@ -43,7 +43,7 @@ GIS data has to be located in folder "includes".
 Once simulations are finished results will be allocated in folder "results"
 
 
-## Assumptions and limitations:
+## Assumptions and limitations
 
 - Simulations are run with one-minute time steps starting on the 14th of March 2020. 
 - There is no differentiation of agents in terms of age or gender, and all accommodation is identical. 
