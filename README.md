@@ -49,6 +49,6 @@ Once simulations are finished results will be allocated in folder "results"
 - Students are assumed to be aged between 18 and 30 years, and as such deaths were not consid-ered in the model as deaths from COVID-19 are almost zero in this age group 
 - Asymptomatic cases are not considered
 
-
+https://user-images.githubusercontent.com/57093439/119123528-8dc63480-ba27-11eb-9571-2e757a9be69e.png
 
 
