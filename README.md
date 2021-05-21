@@ -25,7 +25,7 @@ The first one runs the code once. GUI can be used, where the user can set up the
 
 The second one runs the code as a batch, simulating in parallel several simulations at the same time. Initial parameters are defined in the code and results are only shown when all simulations are finished.  
 
-## GIS data
+## GIS datasets
 GIS data has to be located in folder "includes".
 - Buildings: Dataset 'OS MasterMap Building Height Attribute’ was collected from Ordnance Survey section on the Digimap website (https://digimap.edina.ac.uk/os). Academic registration is required to obtain this data. This dataset has to be split in two based on paper explanations: 
 	- Buildings_with_interactions.shp
