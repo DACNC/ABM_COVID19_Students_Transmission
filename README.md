@@ -1,4 +1,4 @@
-# ABM_COVID19_Students_Accommodations
+# ABM_COVID19_Students_Transmission
 
 This is the GitHub repository containing the GAMA code developed and open data to simulate geospatial case-scenarios of the transmission of COVID-19 between students living at student accommodation.
 
