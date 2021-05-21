@@ -1,3 +1,5 @@
+#ABM_COVID19_Students_Accommodations
+
 This is the GitHub repository containing the GAMA code developed to simulate geospatial case-scenarios of the transmission of COVID-19 between students living at student accommodation.
 
 This project was developed as part of the Thesis in Master of Research in Geospatial Data Science, at Newcastle University (academic year 2019-2020).
