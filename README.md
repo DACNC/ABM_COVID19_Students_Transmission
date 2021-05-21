@@ -10,7 +10,8 @@ This project was developed as part of the Thesis in Master of Research in Geospa
 - Environmental variables should be updated as follow: PATH variable should contain an option pointing to folder: ../Java/jre1.8.0_171/bin
 
 
-## To install GAMA platform, follow steps from following GAMA website:
+## Installation
+To install GAMA platform, follow steps from following GAMA website:
 - https://gama-platform.github.io/wiki/InstallationAndLaunching
 
 
