@@ -53,6 +53,6 @@ Once simulations are finished results will be allocated in folder "results"
 
 
 
-### Perspective views of the 3D ABM model
+### Perspective views of the 3D ABM simulation
 ![alt text](https://user-images.githubusercontent.com/57093439/119123528-8dc63480-ba27-11eb-9571-2e757a9be69e.png)
 Image contains Ordnance Survey data © Crown copyright and database right 2020.
