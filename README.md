@@ -1,7 +1,6 @@
 # ABM_COVID19_Students_Transmission
 
 *David Alvarez Castro* (contact d.alvarez2@newcastle.ac.uk)
-
 *Alistair Ford* 
 
 This is the GitHub repository containing the GAMA code developed and open data to simulate geospatial case-scenarios of the transmission of COVID-19 between students living at student accommodation.
