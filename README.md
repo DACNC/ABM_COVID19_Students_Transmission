@@ -26,13 +26,14 @@ The second one runs the code as a batch, simulating in parallel several simulati
 
 ## GIS data
 GIS data has to be located in folder "includes".
-- Buildings: Dataset 'OS MasterMap Building Height Attribute’ was collected from Ordnance Survey section on the Digimap website (https://digimap.edina.ac.uk/os). Academic registration is required to obtain this data. This dataset has to be split in two: 
+- Buildings: Dataset 'OS MasterMap Building Height Attribute’ was collected from Ordnance Survey section on the Digimap website (https://digimap.edina.ac.uk/os). Academic registration is required to obtain this data. This dataset has to be split in two based on paper explanations: 
 	- Buildings_with_interactions.shp
 	- Buildings_no_interactions_only.shp
-- Footpaths: This dataset was developed from the ‘OS OpenMap Local roads’ layer (Ordnance Survey). It is open-source and can be found in this repository.
-- Students: Dataset containing the students living at student accommodation, located at specific acommodation (3D position) and with individual daily routines.
-- Statics: This dataset contains static agents (e.g., any unanimated element in the environment that can transmit an infectious disease when has been in close contact with an infective agent). These agents were located inside buildings based on assumed probability of interac-tion, the likelihood to be infected by them when in contact, and the approximate num-ber of times students interact with them, in each type of building. 
-- Dynamics: This dataset contains dynamic agents (e.g., any person that can interact with students in their daily routines and static agents). They were located inside buildings. These agents do not follow any daily routine and are always moving randomly inside the building they were located
+- Footpaths: This dataset was developed from the ‘OS OpenMap Local roads’ layer (Ordnance Survey). It is open-source and can be found in this repository ("GIS datasets" folder).
+- Students: Dataset containing the students living at student accommodation, located at specific acommodation (3D position) and with individual daily routines set up in the attribute table. It is open-source and can be found in this repository ("GIS datasets" folder).
+- Statics: This dataset contains static agents (e.g., any unanimated element in the environment that can transmit an infectious disease when has been in close contact with an infective agent). These agents were located inside buildings based on assumed probability of interaction, the likelihood to be infected by them when in contact, and the approximate number of times students interact with them, in each type of building. It is open-source and can be found in this repository ("GIS datasets" folder).
+- Dynamics: This dataset contains dynamic agents (e.g., any person that can interact with students in their daily routines and static agents). They were located inside buildings. These agents do not follow any daily routine and are always moving randomly inside the building they were located. It is open-source and can be found in this repository ("GIS datasets" folder).
+- Project scale boundary: dataset identifying the area of the project. It is open-source and can be found in this repository ("GIS datasets" folder).
 
 
 **For more information about the attribute tables of each described GIS dataset , please refer to Appendix B in the paper.**
