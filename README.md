@@ -13,7 +13,7 @@ This project was developed as part of the Thesis in Master of Research in Geospa
 Perspective view of the ABM, when students are located at home at the beginning of the outbreak (top left) and their daily interactions during the outbreak (bottom left and right), showing different infectious status (Susceptible (green), Exposed (yellow), Infective (red), Recovered (blue)). Contains Ordnance Survey data © Crown copyright and database right 2020.
 
 ### Video of the 3D ABM simulation
-![alt text](https://user-images.githubusercontent.com/57093439/124594709-08240a00-de58-11eb-8cc6-99821e5a6259.mp4)
+(https://user-images.githubusercontent.com/57093439/124594709-08240a00-de58-11eb-8cc6-99821e5a6259.mp4)
 
 ## Requirements
 - This code was developed using GAMA Platform, version 1.8 (released on the 31st of July, 2019) (https://gama-platform.github.io/download).
